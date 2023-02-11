@@ -31,16 +31,6 @@ This project aims to classify the input image as either a dog or a cat image. Th
 
 
 
-
-
-
-
-
-
-
-
-
-
 ![App Screenshot](https://www.codeproject.com/KB/image-classification/5160467/5_Convolution_Network.PNG)
 
 
