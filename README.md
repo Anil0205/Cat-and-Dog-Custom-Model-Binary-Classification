@@ -7,7 +7,7 @@ This project aims to classify the input image as either a dog or a cat image. Th
 ## Installation
 
 
-```bash
+```
   pip install numpy
   pip install pandas
   pip install glob
@@ -41,7 +41,7 @@ This project aims to classify the input image as either a dog or a cat image. Th
 
 
 
-![App screenshot](https://www.codeproject.com/KB/image-classification/5160467/5_Convolution_Network.PNG)
+![App Screenshot](https://www.codeproject.com/KB/image-classification/5160467/5_Convolution_Network.PNG)
 
 
 
@@ -49,7 +49,7 @@ This project aims to classify the input image as either a dog or a cat image. Th
 
 
 
-![App screenshot](https://www.codeproject.com/KB/image-classification/5160467/3_Fully_Connected_2.PNG)
+![App Screenshot](https://www.codeproject.com/KB/image-classification/5160467/3_Fully_Connected_2.PNG)
 
 ## Skills 
 
